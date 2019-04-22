@@ -7,17 +7,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2019
 * When done, commit and push the results to your github repository
 * All assignments need to be completed by **07.05.2019**
 
-## Data and packages for Python assignments
-#### Data
-* BAM file: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/HG00096/alignment/HG00096.chrom11.ILLUMINA.bwa.GBR.low_coverage.20120522.bam 
-* VCF file:
-ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorrent_TVC_03162015/AmpliseqExome.20141120.NA24385.vcf
-* VCF file: 
-ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorrent_TVC_03162015/AmpliseqExome.20141120.NA24143.vcf
-* VCF file:
-ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorrent_TVC_03162015/AmpliseqExome.20141120.NA24149.vcf
-  
-#### Packages
+## Python packages
 * Biopython (http://biopython.org/)
 * pybedtools (https://daler.github.io/pybedtools/)
 * NCBI (http://biopython.org/DIST/docs/api/Bio.Entrez-module.html)
@@ -50,16 +40,16 @@ Repository: [medizinische_genomanalysen_2019_assignment_3](https://github.com/sp
 3. *Optional: Present the performed analysis*
 
 
-#### OPTIONAL: Perform the following steps 
-1. *Optional: Data Import – take FASTQ files from:*
+#### Perform the following steps 
+1. Data Import – take FASTQ files from:
    * *Illumina:  ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data*
    * *Ion Torrent: (Only for Ion Reporter)  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/*
    * *Requirement: human, genome (no RNASeq, methylation, …)*
-2. *Optional: Quality Control & QC Report*
-3. *Optional: Mapping*
-4. *Optional: Variant Calling (SNV, Indel)*
-5. *Optional: Variant Annotation*
-6. *Optional: Interpretation & Decision Making*
+2. Quality Control & QC Report
+3. Mapping
+4. Variant Calling (SNV, Indel)
+5. Variant Annotation
+6. Interpretation & Decision Making
 
 #### Student groups 
 1. Illumina basespace  --  https://basespace.illumina.com/home/index 
