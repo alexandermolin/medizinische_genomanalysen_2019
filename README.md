@@ -16,6 +16,8 @@ Material and information about the lecture "Medizinische Genomanalysen" 2019
 * cyvcf2 (https://github.com/brentp/cyvcf2)
 * pyvcf (http://pyvcf.readthedocs.io/en/latest/)
 * HGVS - does only work with Python2! (https://hgvs.readthedocs.io/en/master/)
+* pyfaidx
+
 
 
 ## Assignment 1
