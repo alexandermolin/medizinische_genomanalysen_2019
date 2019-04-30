@@ -5,7 +5,7 @@ Material and information about the lecture "Medizinische Genomanalysen" 2019
 * Fork & clone the repository of each assignment
 * Each student needs to work on his/her assignment (no team work)
 * When done, commit and push the results to your github repository
-* All assignments need to be completed by **07.05.2019**
+* All assignments need to be completed by **17.05.2019**
 
 ## Python packages
 * Biopython (http://biopython.org/)
