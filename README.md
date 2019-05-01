@@ -38,8 +38,8 @@ Repository: [medizinische_genomanalysen_2019_assignment_3](https://github.com/sp
 #### Your TODOs
 1. Per group present the selected software
    * Software: 10min 
-2. *Optional: Perform 6 analysis steps (if possible) using FASTQ files*
-3. *Optional: Present the performed analysis*
+2. Perform 6 analysis steps (if possible) using FASTQ files (use only one file and chr21 to speed up the analysis)
+3. Present the performed analysis
 
 
 #### Perform the following steps 
@@ -55,25 +55,39 @@ Repository: [medizinische_genomanalysen_2019_assignment_3](https://github.com/sp
 
 #### Student groups 
 1. Illumina basespace  --  https://basespace.illumina.com/home/index 
-   * xx
-   * xx
-   * xx
-2. Ion Reporter  --  https://ionreporter.lifetechnologies.com/ir/ 
-   * xx 
-   * xx
-   * xx
+   * Arnold	Vivienne
+   * Benkö	Alexander
+   * Bilek	Gerhard
+   * Brenner	Stefan
+   * Erhart	Ricarda
+
+2. Maser  --  http://cell-innovation.nig.ac.jp/maser/index_en.html
+   * Fischer	Johanna
+   * Glück	Tobias
+   * Gorki	Anna-Dorothea
+   * Hobiger	Johanna
+   * Huber	Lukas
 3. Galaxy  --  https://main.g2.bx.psu.edu/ 
-   * xx
-   * xx
-   * xx
+   * Jansen	Christian
+   * Kriz	Richard
+   * Lehner	Eva Valerie
+   * Lenz	René
+   * Luger	Martina
 4. Chipster  --  http://chipster.csc.fi/ 
-   * xx
-   * xx
-   * xx
-5. GenePattern  --  https://genepattern.broadinstitute.org/gp
-   * xx
-   * xx
-   * xx
+   * Maxymovitz	Eva
+   * Meitz	Sarah
+   * Mock	Michael
+   * Molin	Alexander
+   * Prem	Max
+   * Ropek	Nathalie
+5. GenePattern  --  https://cloud.genepattern.org/
+   * Schneider	Lisa
+   * Sehr	Eva Maria
+   * Turkusic	Sabina
+   * Umlauf	Ellen
+   * Viehböck	Dominic
+   * Zajac	Marek
+
 
 
 
