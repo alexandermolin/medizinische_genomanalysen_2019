@@ -38,14 +38,14 @@ Repository: [medizinische_genomanalysen_2019_assignment_3](https://github.com/sp
 #### Your TODOs
 1. Per group present the selected software
    * Software: 10min 
-2. Perform 6 analysis steps (if possible) using FASTQ files (use only one file and chr21 to speed up the analysis)
+2. Perform 6 analysis steps (if possible) using FASTQ files (subset your file to speed up the analysis)
 3. Present the performed analysis
 
 
 #### Perform the following steps (if supported)
 1. Data Import – take FASTQ files from:
-   * *Illumina:  ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data*
-   * *Ion Torrent: (Only for Ion Reporter)  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/*
+   * *Illumina:  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/NIST_Illumina_2x250bps/reads/ * 
+   * *Ion Torrent: (Only for Ion Reporter)  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/ *
    * *Requirement: human, genome (no RNASeq, methylation, …)*
 2. Quality Control & QC Report
 3. Mapping
